@@ -54,8 +54,8 @@
 &nbsp;
 
 <br>
-  <a href="#" title="NahidIbnAli">
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=NahidIbnAli&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#" title="Shafaet Hossen">
+    <img width="434" src="https://github-readme-stats.vercel.app/api?username=shafaet-j&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 <br>
   <a href="#" align="center" title="NahidIbnAli">
